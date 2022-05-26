@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thejake989/teamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/thejake989/teamProfileGenerator#readme"
+  "homepage": "https://github.com/thejake989/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
