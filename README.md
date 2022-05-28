@@ -25,4 +25,4 @@ If you have any questions feel free to contact me here:
 
 ## Application Image
 
-![Image of Application](https://github.com/thejake989/teamprofilegenerator)
+![Image of Application](https://github.com/thejake989/teamProfileGenerator/blob/main/assets/images/sample.jpeg?raw=true)
