@@ -25,4 +25,6 @@ If you have any questions feel free to contact me here:
 
 ## Application Image
 
-![Image of Application](..%5C..%5CDevelop-Challenge-8%5CteamProfileGenerator%5Cassets%5Cimages%5Csample.mp4)
+![Image of Application]
+https://user-images.githubusercontent.com/58663139/170808810-5a6802ea-eabe-42d6-8c29-84a1d848729e.mp4
+
